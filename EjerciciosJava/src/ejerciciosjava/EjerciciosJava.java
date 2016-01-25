@@ -19,7 +19,7 @@ public class EjerciciosJava {
         System.out.println("Hola Mundo");
         System.out.println("Hola Mundo2");
         System.out.println("Hola Mundo3");
-        System.out.println("Hola Mnudo4");
+        System.out.println("Hola Mundo4");
     }
     
 }
